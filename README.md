@@ -1,0 +1,2 @@
+# SS2026_EEA_HWSW_Co-Design_Individual_Report_Sharing_and_Binding_within_High-Level_Synthesis
+Here I will manage separately HWSW_Co-Design
